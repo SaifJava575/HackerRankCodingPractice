@@ -6,7 +6,6 @@ public class CountStringIntegerDouble {
 		typeCounter(input);
 	}
 
-
 	public static  void typeCounter(String input) {
 		int wordCount = 0;
 		int integerCount = 0;
